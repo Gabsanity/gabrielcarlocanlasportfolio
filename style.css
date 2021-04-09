@@ -218,6 +218,16 @@ section .title::after{
     background: none;
 }
 
+
+.text-2 span{
+    opacity: 0;
+    transition: all 0.4s ease;
+}
+
+span.fade{
+    opacity: 1;
+}
+
 /* about section styling */
 .about .title::after{
     content: "who i am";
