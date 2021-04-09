@@ -11,6 +11,11 @@ html{
     scroll-behavior: smooth;
 }
 
+@font-face {
+    font-family: 'Julietta Messie';
+    src: url('./Julietta-Messie.otf');
+}
+
 /* custom scroll bar */
 ::-webkit-scrollbar {
     width: 10px;
